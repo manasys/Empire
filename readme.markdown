@@ -1,6 +1,6 @@
 # Empire: RDF for JPA
 
-Empire provides a standard [JPA](http://java.sun.com/developer/technicalArticles/J2EE/jpa/) style interface to
+Empire provides a standard [JPA](https://www.oracle.com/java/technologies/persistence-jsp.html) style interface to
 [RDF](http://www.w3.org/RDF/) databases using [SPARQL](http://www.w3.org/TR/rdf-sparql-query/).
 
 Our immediate need for Empire was to be able to build RDF-backed web apps, including [Pelorus](http://clarkparsia.com/pelorus), while being
